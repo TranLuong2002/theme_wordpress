@@ -1,0 +1,13 @@
+/*
+Theme Name: luong dev
+Theme URI: http://dev.local/
+Author: luong tran
+Author URI: http://dev.local/
+Description: không có gì đặc biệt
+Version: 1.0.0
+License: GNU General Public License v2 or later
+Text Domain: luong-dev
+*/
+
+/* Import các file CSS khác */
+@import url('assets/css/main.css');
